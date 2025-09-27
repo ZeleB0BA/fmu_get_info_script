@@ -9,7 +9,7 @@ save_dir=/var/www/html/links/data/pages/mu
 report_name=mu_versions.txt
 out_file=$save_dir/$report_name
 heading='Информация по Фронтол МаркЮнит в магазинах'
-Domain=tdsterh.local
+Domain=organiz.local
 
 get_temp=./temp_json.txt
 
